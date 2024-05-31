@@ -2,7 +2,7 @@
 
 echo "Enter the number of terms:"
 read n
-n=200
+n=100
 
 # Initializing first two Fibonacci numbers
 a=0
