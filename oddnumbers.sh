@@ -12,4 +12,4 @@ do
        echo $i >> $output_file
    fi
 done
-echo "Even numbers from 1 to 100 have been written to $output_file"
+echo "odd numbers from 1 to 100 have been written to $output_file"
